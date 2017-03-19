@@ -4,3 +4,8 @@ This is a powerful framework for the development of projects by [3D Digital](htt
 
 
 This framework is based on the fine folks contributing to [HTML5 Blank](http://html5blank.com), with heavy modifications by [Cam Hayes](http://cerherm.com).
+
+
+## Patterns
+
+This is where I will define some CSS architercture and basic design patterns.
